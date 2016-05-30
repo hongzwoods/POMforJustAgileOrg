@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37549" started-at="2016-05-30T01:07:42Z" finished-at="2016-05-30T01:08:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37549" started-at="2016-05-30T01:07:42Z" finished-at="2016-05-30T01:08:19Z">
+      <class name="toolLib.TestPgObject">
+        <test-method status="PASS" signature="testContact()[pri:0, instance:toolLib.TestPgObject@5cc7c2a6]" name="testContact" duration-ms="19087" started-at="2016-05-29T18:07:42Z" finished-at="2016-05-29T18:08:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContact -->
+        <test-method status="PASS" signature="testContactforFail()[pri:0, instance:toolLib.TestPgObject@5cc7c2a6]" name="testContactforFail" duration-ms="18441" started-at="2016-05-29T18:08:01Z" finished-at="2016-05-29T18:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContactforFail -->
+      </class> <!-- toolLib.TestPgObject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
