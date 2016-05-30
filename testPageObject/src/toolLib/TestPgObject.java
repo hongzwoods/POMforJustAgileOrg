@@ -11,6 +11,7 @@ public class TestPgObject {
 	public TestObject tob;
 	public HomePage hpg;
 	
+	//test case 1 for log in successful
 	@Test
 	public void testContact() throws InterruptedException{
 		driver = new FirefoxDriver();
@@ -22,6 +23,7 @@ public class TestPgObject {
 		driver.quit();
 	}
 	
+	//Test case 2 for failing
 	@Test
 	public void testContactforFail() throws InterruptedException{
 		driver = new FirefoxDriver();
